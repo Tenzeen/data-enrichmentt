@@ -1,0 +1,219 @@
+,hospital_county,facility_name,age_group,race,ethnicity,zip_code_3_digits,length_of_stay,ccs_diagnosis_code,ccs_procedure_code,payment_typology_1,total_charges,total_costs,zip3,adi_natrank,adi_staternk
+0,Manhattan,New York Presbyterian Hospital - Columbia Presbyterian Center,0 to 17,Other Race,Not Span/Hispanic,104,58,218,216,Medicaid,"810,447.73","184,238.54",,,
+1,Manhattan,Mount Sinai Beth Israel,50 to 69,White,Not Span/Hispanic,100,2,6,231,Medicaid,"15,968.55","4,221.22",100,5,2
+2,Manhattan,Mount Sinai Beth Israel,50 to 69,White,Not Span/Hispanic,100,2,6,231,Medicaid,"15,968.55","4,221.22",100,5,2
+3,Bronx,Montefiore Medical Center-Wakefield Hospital,30 to 49,Black/African American,Not Span/Hispanic,104,2,181,137,Medicaid,"18,118.83","5,421.75",,,
+4,Suffolk,Brookhaven Memorial Hospital Medical Center Inc,70 or Older,White,Not Span/Hispanic,117,10,101,193,Medicare,"80,363.14","14,736.73",117,6,2
+5,Suffolk,Brookhaven Memorial Hospital Medical Center Inc,70 or Older,White,Not Span/Hispanic,117,10,101,193,Medicare,"80,363.14","14,736.73",117,6,2
+6,Rensselaer,Samaritan Hospital,70 or Older,White,Not Span/Hispanic,121,3,125,0,Medicare,"12,590.94","5,834.68",121,62,9
+7,Westchester,New York-Presbyterian/Lawrence Hospital,70 or Older,White,Not Span/Hispanic,107,17,108,0,Medicare,"61,373.25","17,631.87",,,
+8,Queens,Long Island Jewish Medical Center,50 to 69,White,Not Span/Hispanic,115,7,2,231,Medicare,"68,647.40","13,175.22",115,25,6
+9,Queens,Long Island Jewish Medical Center,50 to 69,White,Not Span/Hispanic,115,7,2,231,Medicare,"68,647.40","13,175.22",115,8,3
+10,Queens,Long Island Jewish Medical Center,50 to 69,White,Not Span/Hispanic,115,7,2,231,Medicare,"68,647.40","13,175.22",115,3,1
+11,Kings,New York Methodist Hospital,70 or Older,White,Spanish/Hispanic,112,8,110,51,Medicare,"105,090.55","43,279.31",,,
+12,Westchester,Phelps Memorial Hospital Assn,50 to 69,White,Not Span/Hispanic,109,2,33,104,Blue Cross/Blue Shield,"68,363.61","19,757.46",,,
+13,Queens,Long Island Jewish Medical Center,18 to 29,Other Race,Not Span/Hispanic,114,5,2,231,Medicaid,"42,264.10","8,487.79",114,2,1
+14,Queens,Long Island Jewish Medical Center,18 to 29,Other Race,Not Span/Hispanic,114,5,2,231,Medicaid,"42,264.10","8,487.79",114,PH,PH
+15,Queens,Long Island Jewish Medical Center,18 to 29,Other Race,Not Span/Hispanic,114,5,2,231,Medicaid,"42,264.10","8,487.79",114,2,1
+16,Queens,Long Island Jewish Medical Center,18 to 29,Other Race,Not Span/Hispanic,114,5,2,231,Medicaid,"42,264.10","8,487.79",114,27,7
+17,Queens,Long Island Jewish Medical Center,18 to 29,Other Race,Not Span/Hispanic,114,5,2,231,Medicaid,"42,264.10","8,487.79",114,PH,PH
+18,Queens,Long Island Jewish Medical Center,18 to 29,Other Race,Not Span/Hispanic,114,5,2,231,Medicaid,"42,264.10","8,487.79",114,7,2
+19,Bronx,Montefiore Medical Center - Henry & Lucy Moses Div,50 to 69,Other Race,Not Span/Hispanic,104,9,109,177,Medicare,"130,700.60","27,511.99",,,
+20,Kings,Maimonides Medical Center,30 to 49,White,Not Span/Hispanic,112,8,659,218,Medicare,"14,346.00","8,076.52",,,
+21,Rensselaer,The Burdett Care Center,0 to 17,Black/African American,Not Span/Hispanic,121,2,218,115,Medicaid,"4,189.90","2,135.30",121,62,9
+22,Rockland,Good Samaritan Hospital of Suffern,70 or Older,Other Race,Unknown,109,2,108,58,Medicare,"22,879.98","4,473.64",,,
+23,Manhattan,Mount Sinai Hospital,70 or Older,White,Not Span/Hispanic,101,8,101,44,Medicare,"121,358.29","32,505.46",101,2,1
+24,Manhattan,Mount Sinai Hospital,70 or Older,White,Not Span/Hispanic,101,8,101,44,Medicare,"121,358.29","32,505.46",101,8,3
+25,Manhattan,Mount Sinai Hospital,70 or Older,White,Not Span/Hispanic,101,8,101,44,Medicare,"121,358.29","32,505.46",101,4,2
+26,Manhattan,Mount Sinai Hospital,70 or Older,White,Not Span/Hispanic,101,8,101,44,Medicare,"121,358.29","32,505.46",101,9,3
+27,Manhattan,Mount Sinai Hospital,70 or Older,White,Not Span/Hispanic,101,8,101,44,Medicare,"121,358.29","32,505.46",101,14,4
+28,Bronx,SBH Health System,70 or Older,Black/African American,Spanish/Hispanic,104,3,244,231,Medicare,"15,931.89","4,563.59",,,
+29,Bronx,Montefiore Medical Center - Henry & Lucy Moses Div,70 or Older,White,Not Span/Hispanic,104,3,164,111,Medicare,"27,923.85","6,290.55",,,
+30,Manhattan,Mount Sinai Beth Israel,50 to 69,Other Race,Not Span/Hispanic,100,2,203,153,Medicare,"62,495.45","17,320.85",100,5,2
+31,Manhattan,Mount Sinai Beth Israel,50 to 69,Other Race,Not Span/Hispanic,100,2,203,153,Medicare,"62,495.45","17,320.85",100,5,2
+32,Manhattan,New York Presbyterian Hospital - Columbia Presbyterian Center,30 to 49,Black/African American,Not Span/Hispanic,104,4,237,231,Medicare,"108,881.54","37,126.55",,,
+33,Kings,New York Methodist Hospital,50 to 69,Black/African American,Not Span/Hispanic,112,3,157,29,Medicaid,"16,708.72","5,153.80",,,
+34,Albany,Albany Memorial Hospital,18 to 29,White,Not Span/Hispanic,122,1,242,0,Medicaid,"4,806.10","1,363.52",122,75,9
+35,Albany,Albany Memorial Hospital,18 to 29,White,Not Span/Hispanic,122,1,242,0,Medicaid,"4,806.10","1,363.52",122,75,9
+36,Albany,Albany Memorial Hospital,18 to 29,White,Not Span/Hispanic,122,1,242,0,Medicaid,"4,806.10","1,363.52",122,75,9
+37,Albany,Albany Memorial Hospital,18 to 29,White,Not Span/Hispanic,122,1,242,0,Medicaid,"4,806.10","1,363.52",122,75,9
+38,Albany,Albany Memorial Hospital,18 to 29,White,Not Span/Hispanic,122,1,242,0,Medicaid,"4,806.10","1,363.52",122,75,9
+39,Albany,Albany Memorial Hospital,18 to 29,White,Not Span/Hispanic,122,1,242,0,Medicaid,"4,806.10","1,363.52",122,81,10
+40,Albany,Albany Memorial Hospital,18 to 29,White,Not Span/Hispanic,122,1,242,0,Medicaid,"4,806.10","1,363.52",122,75,9
+41,Albany,Albany Memorial Hospital,18 to 29,White,Not Span/Hispanic,122,1,242,0,Medicaid,"4,806.10","1,363.52",122,54,8
+42,Albany,Albany Memorial Hospital,18 to 29,White,Not Span/Hispanic,122,1,242,0,Medicaid,"4,806.10","1,363.52",122,75,9
+43,Otsego,Mary Imogene Bassett Hospital,70 or Older,White,Not Span/Hispanic,133,1,110,59,Medicare,"26,046.79","12,097.17",133,77,9
+44,Otsego,Mary Imogene Bassett Hospital,70 or Older,White,Not Span/Hispanic,133,1,110,59,Medicare,"26,046.79","12,097.17",133,68,9
+45,Kings,Brooklyn Hospital Center - Downtown Campus,30 to 49,Other Race,Spanish/Hispanic,112,1,163,109,Medicaid,"26,347.40","13,234.62",,,
+46,Kings,Lutheran Medical Center,70 or Older,White,Spanish/Hispanic,112,1,55,58,Medicare,"14,418.92","3,417.56",,,
+47,Nassau,Nassau University Medical Center,70 or Older,White,Spanish/Hispanic,115,11,96,193,Medicare,"62,883.02","30,581.33",115,25,6
+48,Nassau,Nassau University Medical Center,70 or Older,White,Spanish/Hispanic,115,11,96,193,Medicare,"62,883.02","30,581.33",115,8,3
+49,Nassau,Nassau University Medical Center,70 or Older,White,Spanish/Hispanic,115,11,96,193,Medicare,"62,883.02","30,581.33",115,3,1
+50,Bronx,Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div,18 to 29,Black/African American,Not Span/Hispanic,104,2,193,137,Blue Cross/Blue Shield,"30,441.25","9,366.21",,,
+51,Kings,Interfaith Medical Center,18 to 29,Black/African American,Not Span/Hispanic,112,4,140,0,Unknown,"20,515.69","9,399.05",,,
+52,Manhattan,Mount Sinai Hospital,50 to 69,Other Race,Not Span/Hispanic,100,3,237,175,Medicaid,"26,979.60","10,129.34",100,5,2
+53,Manhattan,Mount Sinai Hospital,50 to 69,Other Race,Not Span/Hispanic,100,3,237,175,Medicaid,"26,979.60","10,129.34",100,5,2
+54,Kings,Kingsbrook Jewish Medical Center,50 to 69,Black/African American,Not Span/Hispanic,112,3,108,0,Medicare,"29,356.00","7,472.67",,,
+55,Queens,Long Island Jewish Medical Center,70 or Older,White,Not Span/Hispanic,104,9,2,98,Medicare,"115,055.15","26,175.08",,,
+56,Westchester,SJRH - St Johns Division,50 to 69,Black/African American,Not Span/Hispanic,107,2,83,0,Federal/State/Local/VA,"20,264.83","6,129.79",,,
+57,Kings,New York Methodist Hospital,70 or Older,Black/African American,Not Span/Hispanic,112,5,131,95,Medicare,"36,165.52","13,415.83",,,
+58,Westchester,Montefiore New Rochelle Hospital,70 or Older,White,Not Span/Hispanic,108,2,246,0,Medicare,"9,635.00","4,467.80",,,
+59,Westchester,Westchester Medical Center,18 to 29,White,Not Span/Hispanic,105,4,234,146,Miscellaneous/Other,"92,077.46","19,991.93",105,13,4
+60,Manhattan,Mount Sinai Beth Israel,50 to 69,Black/African American,Spanish/Hispanic,100,3,152,84,Medicaid,"47,209.65","13,217.58",100,5,2
+61,Manhattan,Mount Sinai Beth Israel,50 to 69,Black/African American,Spanish/Hispanic,100,3,152,84,Medicaid,"47,209.65","13,217.58",100,5,2
+62,Nassau,Nassau University Medical Center,0 to 17,White,Spanish/Hispanic,115,3,183,136,Medicaid,"17,377.02","9,896.12",115,25,6
+63,Nassau,Nassau University Medical Center,0 to 17,White,Spanish/Hispanic,115,3,183,136,Medicaid,"17,377.02","9,896.12",115,8,3
+64,Nassau,Nassau University Medical Center,0 to 17,White,Spanish/Hispanic,115,3,183,136,Medicaid,"17,377.02","9,896.12",115,3,1
+65,Tompkins,Cayuga Medical Center at Ithaca,18 to 29,White,Not Span/Hispanic,138,4,659,0,Blue Cross/Blue Shield,"4,986.00","2,739.81",138,48,8
+66,Queens,St Johns Episcopal Hospital So Shore,70 or Older,White,Unknown,116,40,109,71,Medicare,"216,930.81","67,273.97",116,18,5
+67,Monroe,Strong Memorial Hospital,30 to 49,White,Not Span/Hispanic,145,4,230,147,Medicare,"20,401.25","13,114.93",,,
+68,Bronx,Bronx-Lebanon Hospital Center - Concourse Division,70 or Older,Other Race,Spanish/Hispanic,104,3,159,0,Medicare,"12,229.20","12,702.00",,,
+69,Kings,Wyckoff Heights Medical Center,70 or Older,Other Race,Spanish/Hispanic,112,7,102,0,Medicare,"25,399.87","14,750.35",,,
+70,Westchester,White Plains Hospital Center,70 or Older,Other Race,Not Span/Hispanic,106,7,109,0,Medicare,"33,757.00","13,472.46",,,
+71,Jefferson,Samaritan Medical Center,0 to 17,White,Not Span/Hispanic,136,2,128,217,Medicaid,"6,360.29","1,896.25",136,66,9
+72,Jefferson,Samaritan Medical Center,0 to 17,White,Not Span/Hispanic,136,2,128,217,Medicaid,"6,360.29","1,896.25",136,86,10
+73,Manhattan,New York Presbyterian Hospital - Columbia Presbyterian Center,50 to 69,Other Race,Not Span/Hispanic,104,3,95,3,Medicaid,"62,940.75","24,683.23",,,
+74,Otsego,Mary Imogene Bassett Hospital,70 or Older,White,Not Span/Hispanic,133,6,231,177,Medicare,"23,829.44","12,832.32",133,77,9
+75,Otsego,Mary Imogene Bassett Hospital,70 or Older,White,Not Span/Hispanic,133,6,231,177,Medicare,"23,829.44","12,832.32",133,68,9
+76,Nassau,Winthrop-University Hospital,70 or Older,White,Not Span/Hispanic,110,6,109,231,Miscellaneous/Other,"192,318.99","42,085.50",,,
+77,Lewis,Lewis County General Hospital,18 to 29,White,Not Span/Hispanic,133,1,192,137,Private Health Insurance,"3,348.25","4,495.29",133,77,9
+78,Lewis,Lewis County General Hospital,18 to 29,White,Not Span/Hispanic,133,1,192,137,Private Health Insurance,"3,348.25","4,495.29",133,68,9
+79,Queens,St Johns Episcopal Hospital So Shore,30 to 49,Black/African American,Not Span/Hispanic,116,6,661,218,Medicaid,"14,468.99","9,527.47",116,18,5
+80,Manhattan,Mount Sinai Beth Israel,50 to 69,Black/African American,Spanish/Hispanic,OOS,1,203,154,Blue Cross/Blue Shield,"37,714.30","10,982.21",,,
+81,Manhattan,New York-Presbyterian/Lower Manhattan Hospital,70 or Older,Other Race,Multi-ethnic,100,1,128,231,Medicare,"10,857.27","2,977.13",100,5,2
+82,Manhattan,New York-Presbyterian/Lower Manhattan Hospital,70 or Older,Other Race,Multi-ethnic,100,1,128,231,Medicare,"10,857.27","2,977.13",100,5,2
+83,Kings,Brooklyn Hospital Center - Downtown Campus,0 to 17,Black/African American,Unknown,112,2,218,220,Medicaid,"4,313.52","1,678.94",,,
+84,Queens,NewYork-Presbyterian/Queens,70 or Older,White,Spanish/Hispanic,113,9,162,231,Medicare,"43,860.33","12,941.02",113,10,3
+85,Queens,NewYork-Presbyterian/Queens,70 or Older,White,Spanish/Hispanic,113,9,162,231,Medicare,"43,860.33","12,941.02",113,10,3
+86,Queens,NewYork-Presbyterian/Queens,70 or Older,White,Spanish/Hispanic,113,9,162,231,Medicare,"43,860.33","12,941.02",113,10,3
+87,Westchester,Montefiore New Rochelle Hospital,18 to 29,Black/African American,Not Span/Hispanic,108,3,190,134,Medicaid,"30,027.15","21,146.97",,,
+88,Westchester,St Joseph's MC-St Vincents Westchester Division,30 to 49,White,Not Span/Hispanic,105,5,657,0,Medicaid,"6,952.59","3,519.85",105,13,4
+89,Manhattan,Mount Sinai Hospital,70 or Older,Black/African American,Not Span/Hispanic,100,13,2,169,Medicare,"88,501.08","31,358.63",100,5,2
+90,Manhattan,Mount Sinai Hospital,70 or Older,Black/African American,Not Span/Hispanic,100,13,2,169,Medicare,"88,501.08","31,358.63",100,5,2
+91,Monroe,Strong Memorial Hospital,50 to 69,White,Not Span/Hispanic,146,6,254,0,Medicare,"12,289.99","7,097.01",146,76,9
+92,Monroe,Strong Memorial Hospital,50 to 69,White,Not Span/Hispanic,146,6,254,0,Medicare,"12,289.99","7,097.01",146,76,9
+93,Monroe,Strong Memorial Hospital,50 to 69,White,Not Span/Hispanic,146,6,254,0,Medicare,"12,289.99","7,097.01",146,39,7
+94,Monroe,Strong Memorial Hospital,50 to 69,White,Not Span/Hispanic,146,6,254,0,Medicare,"12,289.99","7,097.01",146,66,9
+95,Monroe,Strong Memorial Hospital,50 to 69,White,Not Span/Hispanic,146,6,254,0,Medicare,"12,289.99","7,097.01",146,GQ,GQ
+96,Monroe,Strong Memorial Hospital,50 to 69,White,Not Span/Hispanic,146,6,254,0,Medicare,"12,289.99","7,097.01",146,55,8
+97,Monroe,Strong Memorial Hospital,50 to 69,White,Not Span/Hispanic,146,6,254,0,Medicare,"12,289.99","7,097.01",146,76,9
+98,Monroe,Strong Memorial Hospital,50 to 69,White,Not Span/Hispanic,146,6,254,0,Medicare,"12,289.99","7,097.01",146,GQ,GQ
+99,Monroe,Strong Memorial Hospital,50 to 69,White,Not Span/Hispanic,146,6,254,0,Medicare,"12,289.99","7,097.01",146,76,9
+100,Monroe,Strong Memorial Hospital,50 to 69,White,Not Span/Hispanic,146,6,254,0,Medicare,"12,289.99","7,097.01",146,72,9
+101,Monroe,Strong Memorial Hospital,50 to 69,White,Not Span/Hispanic,146,6,254,0,Medicare,"12,289.99","7,097.01",146,39,7
+102,Monroe,Strong Memorial Hospital,50 to 69,White,Not Span/Hispanic,146,6,254,0,Medicare,"12,289.99","7,097.01",146,76,9
+103,Monroe,Strong Memorial Hospital,50 to 69,White,Not Span/Hispanic,146,6,254,0,Medicare,"12,289.99","7,097.01",146,55,8
+104,Monroe,Strong Memorial Hospital,50 to 69,White,Not Span/Hispanic,146,6,254,0,Medicare,"12,289.99","7,097.01",146,76,9
+105,Monroe,Strong Memorial Hospital,50 to 69,White,Not Span/Hispanic,146,6,254,0,Medicare,"12,289.99","7,097.01",146,72,9
+106,Monroe,Strong Memorial Hospital,50 to 69,White,Not Span/Hispanic,146,6,254,0,Medicare,"12,289.99","7,097.01",146,39,7
+107,Monroe,Strong Memorial Hospital,50 to 69,White,Not Span/Hispanic,146,6,254,0,Medicare,"12,289.99","7,097.01",146,72,9
+108,Monroe,Strong Memorial Hospital,50 to 69,White,Not Span/Hispanic,146,6,254,0,Medicare,"12,289.99","7,097.01",146,72,9
+109,Monroe,Strong Memorial Hospital,50 to 69,White,Not Span/Hispanic,146,6,254,0,Medicare,"12,289.99","7,097.01",146,76,9
+110,Monroe,Strong Memorial Hospital,50 to 69,White,Not Span/Hispanic,146,6,254,0,Medicare,"12,289.99","7,097.01",146,39,7
+111,Monroe,Strong Memorial Hospital,50 to 69,White,Not Span/Hispanic,146,6,254,0,Medicare,"12,289.99","7,097.01",146,76,9
+112,Monroe,Strong Memorial Hospital,50 to 69,White,Not Span/Hispanic,146,6,254,0,Medicare,"12,289.99","7,097.01",146,76,9
+113,Monroe,Strong Memorial Hospital,50 to 69,White,Not Span/Hispanic,146,6,254,0,Medicare,"12,289.99","7,097.01",146,GQ,GQ
+114,Monroe,Strong Memorial Hospital,50 to 69,White,Not Span/Hispanic,146,6,254,0,Medicare,"12,289.99","7,097.01",146,72,9
+115,Monroe,Strong Memorial Hospital,50 to 69,White,Not Span/Hispanic,146,6,254,0,Medicare,"12,289.99","7,097.01",146,76,9
+116,Westchester,SJRH - St Johns Division,0 to 17,White,Spanish/Hispanic,104,2,218,228,Private Health Insurance,"7,641.63","2,611.48",,,
+117,Suffolk,Brookhaven Memorial Hospital Medical Center Inc,50 to 69,Black/African American,Not Span/Hispanic,117,3,50,0,Medicare,"33,951.24","5,506.57",117,6,2
+118,Suffolk,Brookhaven Memorial Hospital Medical Center Inc,50 to 69,Black/African American,Not Span/Hispanic,117,3,50,0,Medicare,"33,951.24","5,506.57",117,6,2
+119,Kings,Brooklyn Hospital Center - Downtown Campus,18 to 29,Black/African American,Not Span/Hispanic,112,12,61,0,Medicaid,"72,181.76","29,053.92",,,
+120,Monroe,The Unity Hospital of Rochester,70 or Older,White,Not Span/Hispanic,146,2,122,0,Medicare,"6,999.00","3,091.03",146,76,9
+121,Monroe,The Unity Hospital of Rochester,70 or Older,White,Not Span/Hispanic,146,2,122,0,Medicare,"6,999.00","3,091.03",146,76,9
+122,Monroe,The Unity Hospital of Rochester,70 or Older,White,Not Span/Hispanic,146,2,122,0,Medicare,"6,999.00","3,091.03",146,39,7
+123,Monroe,The Unity Hospital of Rochester,70 or Older,White,Not Span/Hispanic,146,2,122,0,Medicare,"6,999.00","3,091.03",146,66,9
+124,Monroe,The Unity Hospital of Rochester,70 or Older,White,Not Span/Hispanic,146,2,122,0,Medicare,"6,999.00","3,091.03",146,GQ,GQ
+125,Monroe,The Unity Hospital of Rochester,70 or Older,White,Not Span/Hispanic,146,2,122,0,Medicare,"6,999.00","3,091.03",146,55,8
+126,Monroe,The Unity Hospital of Rochester,70 or Older,White,Not Span/Hispanic,146,2,122,0,Medicare,"6,999.00","3,091.03",146,76,9
+127,Monroe,The Unity Hospital of Rochester,70 or Older,White,Not Span/Hispanic,146,2,122,0,Medicare,"6,999.00","3,091.03",146,GQ,GQ
+128,Monroe,The Unity Hospital of Rochester,70 or Older,White,Not Span/Hispanic,146,2,122,0,Medicare,"6,999.00","3,091.03",146,76,9
+129,Monroe,The Unity Hospital of Rochester,70 or Older,White,Not Span/Hispanic,146,2,122,0,Medicare,"6,999.00","3,091.03",146,72,9
+130,Monroe,The Unity Hospital of Rochester,70 or Older,White,Not Span/Hispanic,146,2,122,0,Medicare,"6,999.00","3,091.03",146,39,7
+131,Monroe,The Unity Hospital of Rochester,70 or Older,White,Not Span/Hispanic,146,2,122,0,Medicare,"6,999.00","3,091.03",146,76,9
+132,Monroe,The Unity Hospital of Rochester,70 or Older,White,Not Span/Hispanic,146,2,122,0,Medicare,"6,999.00","3,091.03",146,55,8
+133,Monroe,The Unity Hospital of Rochester,70 or Older,White,Not Span/Hispanic,146,2,122,0,Medicare,"6,999.00","3,091.03",146,76,9
+134,Monroe,The Unity Hospital of Rochester,70 or Older,White,Not Span/Hispanic,146,2,122,0,Medicare,"6,999.00","3,091.03",146,72,9
+135,Monroe,The Unity Hospital of Rochester,70 or Older,White,Not Span/Hispanic,146,2,122,0,Medicare,"6,999.00","3,091.03",146,39,7
+136,Monroe,The Unity Hospital of Rochester,70 or Older,White,Not Span/Hispanic,146,2,122,0,Medicare,"6,999.00","3,091.03",146,72,9
+137,Monroe,The Unity Hospital of Rochester,70 or Older,White,Not Span/Hispanic,146,2,122,0,Medicare,"6,999.00","3,091.03",146,72,9
+138,Monroe,The Unity Hospital of Rochester,70 or Older,White,Not Span/Hispanic,146,2,122,0,Medicare,"6,999.00","3,091.03",146,76,9
+139,Monroe,The Unity Hospital of Rochester,70 or Older,White,Not Span/Hispanic,146,2,122,0,Medicare,"6,999.00","3,091.03",146,39,7
+140,Monroe,The Unity Hospital of Rochester,70 or Older,White,Not Span/Hispanic,146,2,122,0,Medicare,"6,999.00","3,091.03",146,76,9
+141,Monroe,The Unity Hospital of Rochester,70 or Older,White,Not Span/Hispanic,146,2,122,0,Medicare,"6,999.00","3,091.03",146,76,9
+142,Monroe,The Unity Hospital of Rochester,70 or Older,White,Not Span/Hispanic,146,2,122,0,Medicare,"6,999.00","3,091.03",146,GQ,GQ
+143,Monroe,The Unity Hospital of Rochester,70 or Older,White,Not Span/Hispanic,146,2,122,0,Medicare,"6,999.00","3,091.03",146,72,9
+144,Monroe,The Unity Hospital of Rochester,70 or Older,White,Not Span/Hispanic,146,2,122,0,Medicare,"6,999.00","3,091.03",146,76,9
+145,Erie,Millard Fillmore Suburban Hospital,70 or Older,White,Not Span/Hispanic,141,3,203,152,Medicare,"35,247.64","12,938.60",141,40,7
+146,Erie,Millard Fillmore Suburban Hospital,70 or Older,White,Not Span/Hispanic,141,3,203,152,Medicare,"35,247.64","12,938.60",141,32,7
+147,Kings,Coney Island Hospital,70 or Older,White,Not Span/Hispanic,112,3,245,203,Medicare,"19,151.32","9,467.51",,,
+148,Queens,St Johns Episcopal Hospital So Shore,50 to 69,Black/African American,Not Span/Hispanic,116,7,50,0,Medicare,"41,699.32","12,935.73",116,18,5
+149,Queens,New York Hospital Medical Center of Queens,30 to 49,Other Race,Not Span/Hispanic,113,5,185,140,Medicaid,"28,786.16","10,461.15",113,10,3
+150,Queens,New York Hospital Medical Center of Queens,30 to 49,Other Race,Not Span/Hispanic,113,5,185,140,Medicaid,"28,786.16","10,461.15",113,10,3
+151,Queens,New York Hospital Medical Center of Queens,30 to 49,Other Race,Not Span/Hispanic,113,5,185,140,Medicaid,"28,786.16","10,461.15",113,10,3
+152,Manhattan,New York Presbyterian Hospital - Columbia Presbyterian Center,0 to 17,White,Not Span/Hispanic,112,2,197,231,Medicaid,"17,868.79","6,202.94",,,
+153,Kings,"New York Community Hospital of Brooklyn, Inc",70 or Older,Black/African American,Not Span/Hispanic,112,5,135,231,Medicare,"14,528.12","5,672.44",,,
+154,Westchester,SJRH - St Johns Division,70 or Older,White,Not Span/Hispanic,107,3,159,0,Medicare,"18,034.80","7,560.40",,,
+155,Manhattan,Mount Sinai Hospital,70 or Older,Other Race,Not Span/Hispanic,113,2,101,45,Medicaid,"53,882.46","20,150.80",113,10,3
+156,Manhattan,Mount Sinai Hospital,70 or Older,Other Race,Not Span/Hispanic,113,2,101,45,Medicaid,"53,882.46","20,150.80",113,10,3
+157,Manhattan,Mount Sinai Hospital,70 or Older,Other Race,Not Span/Hispanic,113,2,101,45,Medicaid,"53,882.46","20,150.80",113,10,3
+158,Manhattan,Mount Sinai Hospital,30 to 49,Other Race,Not Span/Hispanic,109,3,144,198,Medicaid,"25,366.90","8,458.46",,,
+159,Westchester,Montefiore New Rochelle Hospital,50 to 69,White,Not Span/Hispanic,OOS,3,203,152,Medicare,"41,117.17","19,175.38",,,
+160,Kings,New York Methodist Hospital,50 to 69,Black/African American,Not Span/Hispanic,112,7,2,54,Medicare,"67,131.21","25,854.08",,,
+161,Suffolk,St Catherine of Siena Hospital,70 or Older,White,Not Span/Hispanic,117,4,59,222,Medicare,"41,256.00","7,258.61",117,6,2
+162,Suffolk,St Catherine of Siena Hospital,70 or Older,White,Not Span/Hispanic,117,4,59,222,Medicare,"41,256.00","7,258.61",117,6,2
+163,Queens,New York Hospital Medical Center of Queens,70 or Older,Other Race,Spanish/Hispanic,113,2,237,2,Medicare,"29,420.53","9,872.54",113,10,3
+164,Queens,New York Hospital Medical Center of Queens,70 or Older,Other Race,Spanish/Hispanic,113,2,237,2,Medicare,"29,420.53","9,872.54",113,10,3
+165,Queens,New York Hospital Medical Center of Queens,70 or Older,Other Race,Spanish/Hispanic,113,2,237,2,Medicare,"29,420.53","9,872.54",113,10,3
+166,Queens,Long Island Jewish Medical Center,70 or Older,Black/African American,Not Span/Hispanic,114,22,117,55,Medicare,"258,122.47","58,487.87",114,2,1
+167,Queens,Long Island Jewish Medical Center,70 or Older,Black/African American,Not Span/Hispanic,114,22,117,55,Medicare,"258,122.47","58,487.87",114,PH,PH
+168,Queens,Long Island Jewish Medical Center,70 or Older,Black/African American,Not Span/Hispanic,114,22,117,55,Medicare,"258,122.47","58,487.87",114,2,1
+169,Queens,Long Island Jewish Medical Center,70 or Older,Black/African American,Not Span/Hispanic,114,22,117,55,Medicare,"258,122.47","58,487.87",114,27,7
+170,Queens,Long Island Jewish Medical Center,70 or Older,Black/African American,Not Span/Hispanic,114,22,117,55,Medicare,"258,122.47","58,487.87",114,PH,PH
+171,Queens,Long Island Jewish Medical Center,70 or Older,Black/African American,Not Span/Hispanic,114,22,117,55,Medicare,"258,122.47","58,487.87",114,7,2
+172,Kings,Interfaith Medical Center,50 to 69,Black/African American,Not Span/Hispanic,112,4,154,0,Unknown,"19,870.72","8,675.35",,,
+173,Kings,Kingsbrook Jewish Medical Center,30 to 49,Black/African American,Not Span/Hispanic,112,5,146,0,Medicaid,"37,378.00","9,871.28",,,
+174,Kings,Kingsbrook Jewish Medical Center,70 or Older,Black/African American,Not Span/Hispanic,112,6,127,0,Medicare,"37,115.00","10,405.80",,,
+175,Bronx,SBH Health System,70 or Older,Other Race,Spanish/Hispanic,104,16,100,231,Medicare,"65,211.78","17,902.78",,,
+176,Kings,New York Methodist Hospital,70 or Older,Black/African American,Not Span/Hispanic,112,2,140,0,Medicare,"11,390.91","3,368.28",,,
+177,Monroe,The Unity Hospital of Rochester,70 or Older,White,Not Span/Hispanic,144,3,2,0,Medicare,"9,310.41","3,741.28",,,
+178,Albany,Albany Medical Center Hospital,70 or Older,White,Not Span/Hispanic,121,9,155,88,Medicare,"57,063.42","14,814.69",121,62,9
+179,Steuben,Corning Hospital,70 or Older,White,Not Span/Hispanic,148,7,108,0,Medicare,"20,933.75","11,198.88",148,42,7
+180,Steuben,Corning Hospital,70 or Older,White,Not Span/Hispanic,148,7,108,0,Medicare,"20,933.75","11,198.88",148,45,8
+181,Queens,Elmhurst Hospital Center,70 or Older,White,Not Span/Hispanic,113,13,108,108,Medicare,"92,618.36","45,438.85",113,10,3
+182,Queens,Elmhurst Hospital Center,70 or Older,White,Not Span/Hispanic,113,13,108,108,Medicare,"92,618.36","45,438.85",113,10,3
+183,Queens,Elmhurst Hospital Center,70 or Older,White,Not Span/Hispanic,113,13,108,108,Medicare,"92,618.36","45,438.85",113,10,3
+184,Bronx,Montefiore Medical Center - Henry & Lucy Moses Div,50 to 69,Other Race,Spanish/Hispanic,104,2,197,231,Medicare,"29,762.85","6,876.38",,,
+185,Erie,Buffalo General Medical Center,70 or Older,White,Not Span/Hispanic,141,4,109,0,Medicare,"17,749.48","6,361.81",141,40,7
+186,Erie,Buffalo General Medical Center,70 or Older,White,Not Span/Hispanic,141,4,109,0,Medicare,"17,749.48","6,361.81",141,32,7
+187,Westchester,Montefiore New Rochelle Hospital,70 or Older,White,Unknown,108,6,157,0,Medicare,"25,229.00","13,029.95",,,
+188,Rensselaer,St. Mary's Hospital,70 or Older,White,Not Span/Hispanic,121,8,2,92,Medicare,"48,822.38","14,905.19",121,62,9
+189,Queens,Long Island Jewish Medical Center,18 to 29,White,Not Span/Hispanic,113,6,657,218,Medicaid,"33,690.00","6,605.12",113,10,3
+190,Queens,Long Island Jewish Medical Center,18 to 29,White,Not Span/Hispanic,113,6,657,218,Medicaid,"33,690.00","6,605.12",113,10,3
+191,Queens,Long Island Jewish Medical Center,18 to 29,White,Not Span/Hispanic,113,6,657,218,Medicaid,"33,690.00","6,605.12",113,10,3
+192,Queens,Long Island Jewish Medical Center,50 to 69,Other Race,Not Span/Hispanic,114,5,106,47,Medicaid,"50,075.99","10,070.73",114,2,1
+193,Queens,Long Island Jewish Medical Center,50 to 69,Other Race,Not Span/Hispanic,114,5,106,47,Medicaid,"50,075.99","10,070.73",114,PH,PH
+194,Queens,Long Island Jewish Medical Center,50 to 69,Other Race,Not Span/Hispanic,114,5,106,47,Medicaid,"50,075.99","10,070.73",114,2,1
+195,Queens,Long Island Jewish Medical Center,50 to 69,Other Race,Not Span/Hispanic,114,5,106,47,Medicaid,"50,075.99","10,070.73",114,27,7
+196,Queens,Long Island Jewish Medical Center,50 to 69,Other Race,Not Span/Hispanic,114,5,106,47,Medicaid,"50,075.99","10,070.73",114,PH,PH
+197,Queens,Long Island Jewish Medical Center,50 to 69,Other Race,Not Span/Hispanic,114,5,106,47,Medicaid,"50,075.99","10,070.73",114,7,2
+198,Queens,Long Island Jewish Schneiders Children's Hospital Division,0 to 17,Other Race,Not Span/Hispanic,114,2,218,228,Medicaid,"11,349.80","1,095.59",114,2,1
+199,Queens,Long Island Jewish Schneiders Children's Hospital Division,0 to 17,Other Race,Not Span/Hispanic,114,2,218,228,Medicaid,"11,349.80","1,095.59",114,PH,PH
+200,Queens,Long Island Jewish Schneiders Children's Hospital Division,0 to 17,Other Race,Not Span/Hispanic,114,2,218,228,Medicaid,"11,349.80","1,095.59",114,2,1
+201,Queens,Long Island Jewish Schneiders Children's Hospital Division,0 to 17,Other Race,Not Span/Hispanic,114,2,218,228,Medicaid,"11,349.80","1,095.59",114,27,7
+202,Queens,Long Island Jewish Schneiders Children's Hospital Division,0 to 17,Other Race,Not Span/Hispanic,114,2,218,228,Medicaid,"11,349.80","1,095.59",114,PH,PH
+203,Queens,Long Island Jewish Schneiders Children's Hospital Division,0 to 17,Other Race,Not Span/Hispanic,114,2,218,228,Medicaid,"11,349.80","1,095.59",114,7,2
+204,Manhattan,New York Presbyterian Hospital - Allen Hospital,30 to 49,Multi-racial,Not Span/Hispanic,104,3,106,227,Medicaid,"30,790.04","8,366.24",,,
+205,Westchester,SJRH - St Johns Division,30 to 49,Other Race,Not Span/Hispanic,107,6,190,134,Private Health Insurance,"34,608.27","17,704.99",,,
+206,Westchester,SJRH - St Johns Division,30 to 49,Black/African American,Not Span/Hispanic,OOS,2,46,125,Private Health Insurance,"20,217.11","9,031.62",,,
+207,Bronx,Montefiore Med Center - Jack D Weiler Hosp of A Einstein College Div,30 to 49,Black/African American,Not Span/Hispanic,104,5,128,216,Medicare,"46,545.01","10,937.90",,,
+208,Bronx,Montefiore Medical Center-Wakefield Hospital,18 to 29,Black/African American,Not Span/Hispanic,104,2,193,137,Medicaid,"15,730.93","5,006.20",,,
+209,Albany,Albany Memorial Hospital,70 or Older,White,Not Span/Hispanic,120,4,109,0,Medicare,"13,875.60","6,425.79",120,48,8
+210,Albany,Albany Memorial Hospital,70 or Older,White,Not Span/Hispanic,120,4,109,0,Medicare,"13,875.60","6,425.79",120,53,8
+211,Kings,Brooklyn Hospital Center - Downtown Campus,70 or Older,Other Race,Spanish/Hispanic,113,2,159,0,Medicare,"19,531.43","6,296.69",113,10,3
+212,Kings,Brooklyn Hospital Center - Downtown Campus,70 or Older,Other Race,Spanish/Hispanic,113,2,159,0,Medicare,"19,531.43","6,296.69",113,10,3
+213,Kings,Brooklyn Hospital Center - Downtown Campus,70 or Older,Other Race,Spanish/Hispanic,113,2,159,0,Medicare,"19,531.43","6,296.69",113,10,3
+214,Saratoga,Saratoga Hospital,50 to 69,White,Not Span/Hispanic,128,2,108,58,Medicare,"15,403.98","4,728.64",,,
+215,Kings,New York Methodist Hospital,50 to 69,White,Not Span/Hispanic,112,4,149,84,Medicare,"38,600.42","16,287.60",,,
+216,Manhattan,New York Presbyterian Hospital - Allen Hospital,18 to 29,Multi-racial,Spanish/Hispanic,100,4,190,134,Medicaid,"34,881.40","9,651.47",100,5,2
+217,Manhattan,New York Presbyterian Hospital - Allen Hospital,18 to 29,Multi-racial,Spanish/Hispanic,100,4,190,134,Medicaid,"34,881.40","9,651.47",100,5,2
